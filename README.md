@@ -4,23 +4,19 @@ This is a prototype of an HR Workflow Designer Module built with React, React Fl
 
 ## Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-<br>
 
 **1. Main Workspace & Node Configuration**
-<img src="./screenshots/1-workspace.png" alt="Workspace" width="800"/>
+<img src="./screenshots/1-workspace.png" alt="Workspace" />
 
 **2. Interactive Canvas**
-<img src="./screenshots/2-canvas.png" alt="Canvas" width="800"/>
+<img src="./screenshots/2-canvas.png" alt="Canvas"/>
 
 **3. Workflow Sandbox Simulation**
-<img src="./screenshots/3-sandbox-running.png" alt="Sandbox Running" width="800"/>
+<img src="./screenshots/3-sandbox-running.png" alt="Sandbox Running"/>
 
 **4. Simulation Success**
-<img src="./screenshots/4-sandbox-success.png" alt="Sandbox Success" width="800"/>
+<img src="./screenshots/4-sandbox-success.png" alt="Sandbox Success"/>
 
-</details>
 
 ## Features Developed
 
