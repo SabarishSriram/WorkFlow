@@ -2,6 +2,26 @@
 
 This is a prototype of an HR Workflow Designer Module built with React, React Flow (`@xyflow/react`), and Vanilla CSS. It provides an intuitive canvas for an HR Administrator to map out and test workflows.
 
+## Screenshots
+
+<details>
+<summary>Click to view screenshots</summary>
+<br>
+
+**1. Main Workspace & Node Configuration**
+<img src="./screenshots/1-workspace.png" alt="Workspace" width="800"/>
+
+**2. Interactive Canvas**
+<img src="./screenshots/2-canvas.png" alt="Canvas" width="800"/>
+
+**3. Workflow Sandbox Simulation**
+<img src="./screenshots/3-sandbox-running.png" alt="Sandbox Running" width="800"/>
+
+**4. Simulation Success**
+<img src="./screenshots/4-sandbox-success.png" alt="Sandbox Success" width="800"/>
+
+</details>
+
 ## Features Developed
 
 - **React Flow Canvas**: Full layout featuring drag & drop. Includes Start, Task, Approval, Automated, and End Nodes, all uniquely styled and animated.
